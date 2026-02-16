@@ -1,0 +1,16 @@
+name = "LOXAD"
+author = "Plunzo"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3562389162986e5a6ad239f2e6a0b75a1a3906f7b9ba54b0c7a08af833832793"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
+
+[options]
+acceptable-game-versions = []
